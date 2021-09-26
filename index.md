@@ -10,3 +10,5 @@ This project centers on a simple design brief: Design an intervention that captu
 ### Weekly Posts:
 
 1. [Week One](https://joancorp.github.io/rapid-prototyping/week-one).
+
+2. [Week Two](https://joancorp.github.io/rapid-prototyping/week-two).
