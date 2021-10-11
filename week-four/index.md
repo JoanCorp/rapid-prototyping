@@ -26,18 +26,21 @@ frame and applying a vacuum, a smooth, curved reflective surface would be formed
 The primary downsides are the inexactness of the form, and the fact that a vacuum must be periodically reapplied to compensate for leaks. I wasn't
 able to properly finish this research by the time of the pinup, so it wasn't included
 
-[![Video Link](rapid-prototyping/week-four/feature.jpg.webp)](https://www.youtube.com/watch?v=5rYr1Yrqwrk "Parabolic Mirror from a Trash Can Lid HACK Death Ray Solar do it yourself DIY")
+[![Video Link](rapid-prototyping/week-four/feature.jpg)](https://www.youtube.com/watch?v=5rYr1Yrqwrk "Parabolic Mirror from a Trash Can Lid HACK Death Ray Solar do it yourself DIY")
 
 David researched how tracking would affect the energy collection. He found that tracking helps about 50 W at peak hours and 100 W before and after[4](https://www.eia.gov/todayinenergy/images/2014.11.19/main.png). The tracking 
 also did not have to be too accurate, due to cosine dependence. A 5 degree deflection would still result in 99.6% of energy being captured
 
 ![Tracking](/rapid-prototyping/week-four/main.png "Tracking")
 
-###Sources
+### Sources
 
 1.[https://en.wikipedia.org/wiki/Solar_irradiance](https://en.wikipedia.org/wiki/Solar_irradiance)
+
 2.[ https://www.hindawi.com/journals/ijp/2014/787392/]( https://www.hindawi.com/journals/ijp/2014/787392/)
+
 3.[https://greenpowerscience.com/FRESNELSHOP/46INCHLINEAR.html](https://greenpowerscience.com/FRESNELSHOP/46INCHLINEAR.html)
+
 4.[https://www.eia.gov/todayinenergy/images/2014.11.19/main.png](https://www.eia.gov/todayinenergy/images/2014.11.19/main.png)
 
 
