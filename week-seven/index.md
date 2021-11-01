@@ -10,7 +10,7 @@ of the concentrator.
 The second design concept is similar to the first. We use pressure to form the mylar, and then back it with fiberglass so it maintains its shape. This can be cut
 to the right shape, but is more complex to manufacture
 
-![Pressure form](/rapid-prototyping/week-seven/Screen Shot 2021-10-31 at 7.38.13 PM.png "pressure form")
+![Pressure form](/rapid-prototyping/week-seven/Screen Shot 2021-10-31 at 7.38.38 PM.png "pressure form")
 
 ![backing](/rapid-prototyping/week-seven/Screen Shot 2021-10-31 at 7.38.13 PM.png "backing")
 
