@@ -19,4 +19,6 @@ This project centers on a simple design brief: Design an intervention that captu
 
 5. [Week Five](https://joancorp.github.io/rapid-prototyping/week-five).
 
-5. [Week Six](https://joancorp.github.io/rapid-prototyping/week-six).
+6. [Week Six](https://joancorp.github.io/rapid-prototyping/week-six).
+
+7. [Week Seven](https://joancorp.github.io/rapid-prototyping/week-seven).

@@ -10,9 +10,15 @@ of the concentrator.
 The second design concept is similar to the first. We use pressure to form the mylar, and then back it with fiberglass so it maintains its shape. This can be cut
 to the right shape, but is more complex to manufacture
 
+![Pressure form](/rapid-prototyping/week-seven/Screen_Shot_2021-10-31_at_7.38.38_PM.png "pressure form")
+
+![backing](/rapid-prototyping/week-seven/Screen_Shot_2021-10-31_at_7.38.13_PM.png "backing")
+
 Our third, and current concept is to manufacture the mirror from small segments. We made prototypes using the mylar stretched over laser cut segments. This
 also could let us explore prototyping a Scheffler reflector. This is a specific form of reflector design that allows for easy solar tracking, and has history of 
 successful use around the world
+
+![reflector](/rapid-prototyping/week-seven/0000963_1.jpg "reflector")
 
 On wednesday, we saw the integrated design concept, so we could further our prototyping, and begand work on the presentation for the mid review, to outline progress
 on our concentrator designs.
