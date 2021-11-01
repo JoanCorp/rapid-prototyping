@@ -12,7 +12,7 @@ to the right shape, but is more complex to manufacture
 
 ![Pressure form](/rapid-prototyping/week-seven/Screen Shot 2021-10-31 at 7.38.13 PM.png "pressure form")
 
-![backing](/rapid-prototyping/week-seven/Screen_Shot_2021-10-31_at_7.38.13_PM.png "backing")
+![backing](/rapid-prototyping/week-seven/Screen Shot 2021-10-31 at 7.38.13 PM.png "backing")
 
 Our third, and current concept is to manufacture the mirror from small segments. We made prototypes using the mylar stretched over laser cut segments. This
 also could let us explore prototyping a Scheffler reflector. This is a specific form of reflector design that allows for easy solar tracking, and has history of 
